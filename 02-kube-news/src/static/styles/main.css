@@ -16,7 +16,7 @@ body {
   display: flex;
   flex-flow: column;
   min-height: 100vh;
-  background-color: #152037;
+  background-color: #ff89ce;
   font-family: "Inter", sans-serif;
 }
 
@@ -43,7 +43,7 @@ body {
 .header__button {
   border-radius: 8px;
   border: 1px solid #1e293b;
-  background: #00a7ed;
+  background: #a6c350;
   width: 100%;
   padding: 16px 24px;
   cursor: pointer;
