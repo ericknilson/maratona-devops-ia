@@ -45,4 +45,4 @@ jobs:
           manifests: |
             02-kube-news/k8s/deployment.yaml
           images: |
-            erickmanovei/kube-news:${{ github.run_number }}
+            erickmanovei/kube-news:v${{ github.run_number }}
